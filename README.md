@@ -1,7 +1,5 @@
 # Ansible-Zero-to-Hero
 
-# Ansible Overview and Usage Guide
-
 ## What is Ansible?
 
 Ansible is an open-source automation tool that simplifies the management of infrastructure, configuration, and application deployment. It allows you to automate repetitive tasks, streamline workflows, and manage complex IT environments with ease.
